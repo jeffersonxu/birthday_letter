@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap');
+
+#typed  {
+    padding-top: 1em;
+    padding-bottom: 2em;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 2em;
+}
+
+.hidden {
+    display: none;
+}
+
+.yoda {
+    width: 100%;
+}
